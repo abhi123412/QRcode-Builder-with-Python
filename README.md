@@ -1,6 +1,6 @@
 # QRcode-Builder-with-Python
-Install required Libraries :==
-   pip install qrcode
+Install required Libraries :==                                                                                                                                                     
+   pip install qrcode 
    pip install image
 import libraries
    import qrcode
